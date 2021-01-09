@@ -1,0 +1,89 @@
+1. As a user i can create an account
+   - password strength
+     (Parola trebuie sa contina 8-16 caractere, intre care cel putin unul alfabetic si unul numeric.)
+   - after the account is created an email is sent for confirmation
+   - only after clicking the confirmation link the account is valid and ready to use
+(https://www.tenispartener.ro/ro/cont-nou/confirm-email/02ad6bbee25f53f2466cb57a704322b2/aHR0cHM6Ly93d3cudGVuaXNwYXJ0ZW5lci5yby9yby9jb250)
+(After clicking the confirmation email link=> Adresa de email a fost verificata. Contul tau a fost validat.)
+
+2. As a user i can choose between 3 types of accounts:
+   - Gratuit (free)
+   - Cont de vara 2020 (summer 2020)
+   - Cont premium 2020 (premium 2020)
+
+3. Once logged in as a user i can access my personal profile
+   - click pe "Vezi profil personal"
+   - Informatii disponibile in profilul personal:
+         Cod Personal: 	36956
+         Localitate: 	Timisoara
+         Judet: 	Timis
+         Varsta: 	36 ani
+         Inaltime: 	-
+         Greutate: 	-
+         Jucator de mana: 	-
+
+         Nivel simplu
+         Nivel dublu
+
+         Meciuri partener disponibile
+         Disponibilitate meciuri partener
+
+         Clasament si ELO simplu
+         Clasament si ELO dublu
+
+         Activitate (posibilitate filtrare dupa an, dupa activitate(turnee, meciuri partener))
+            - simplu
+            - dublu
+         Activitatea apare in ordine cronologica si incepe cu momentul inscrierii in sistem
+         La momentul inscrierii in sistem se aloca un punctaj de baza de 200 puncte.
+
+         Statistici:
+            Data inscriere: 	23 Octombrie
+            Turnee simplu: 	0
+            Turnee dublu: 	0
+            Meciuri partener: 	0
+            Turnee 2020: 	0
+            Meciuri partener 2020: 	0
+
+         Calculator ELO simplu (Introdu 2 jucatori si vezi sansele de castig in meci direct, pe baza valorilor ELO.)
+
+4. Once logged in as a use i can edit my personal profile (click on "Editeaza profil")
+   - Administrare cont
+   - Administrare inscrieri
+   - Administrare rezultate
+   - Portofel virtual
+   - Tranzactii
+   - Mesagerie
+   - Notificari
+   - Meciuri partener
+   - Disponibilitate
+
+   a. Administrare cont
+      - Contul tau
+            - Tipul contului: Gratuit (upgrade)
+            - Valabilitate: nelimitat
+            - Email : Adresa actuala
+                      Noua adresa de email (Salveaza noul email)
+            - Parola : posibilitate modificare parola
+
+      - Informatii jucator
+            - Profil personal (Doresc sa fac public profilul meu personal - checkbox)
+            - Inaltime (cm)
+            - Greutate (kg)
+            - Jucator de mana (-, dreapta, stanga)
+            - Marime tricou (Select box : - XS, S, M, L, XL, XXL)
+
+      - Informatii prsonale
+            - Nume
+            - Prenume
+            - Titulatura
+            - Data nasterii
+            - Numar telefon
+            - Localitate
+
+      - Poza profil
+            - Upload photo (- Marime maxima: 2 MB - Format acceptat: JPG, PNG)
+      - Optiuni comunicare
+            - Abonare newsletter (checkbox)
+
+   b. Administrare inscrieri
